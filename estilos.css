@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	background-color rgb(51,51,51);
+	background-image:url(construccion.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+div{
+	width:100%;
+	height:100vh;
+	display: flex;
+}
+div img{
+
+margin:auto;
+}
